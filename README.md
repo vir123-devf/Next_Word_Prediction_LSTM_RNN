@@ -3,6 +3,8 @@
 A deep learning project that predicts the next word in a given sentence using an **LSTM (Long Short-Term Memory)** model.
 This project demonstrates the application of **Recurrent Neural Networks (RNNs)** in **Natural Language Processing (NLP)** by learning from the text of *Shakespeare’s Hamlet*.
 
+🌐 **[Live Demo](https://next-word-prediction-13.streamlit.app/)**  
+
 ---
 
 ## 📘 Project Overview
