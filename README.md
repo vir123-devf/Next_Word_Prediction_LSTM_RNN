@@ -126,9 +126,4 @@ The model achieves meaningful predictions on literary text, demonstrating the ca
 ## 🧑‍💻 Author
 
 **Virendra Badgotya**
-B.Tech in Electrical Engineering | SVNIT Surat
 🔗 [GitHub](https://github.com/vir123-devf) | [LinkedIn](https://www.linkedin.com/in/virendra-badgotya-ai/)
-
----
-
-Would you like me to include an **example screenshot section** (for your Streamlit app interface) in the README as well? It can make your GitHub page look more appealing.
